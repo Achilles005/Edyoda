@@ -1,0 +1,5 @@
+Install Python3.
+open the python command prompt
+navigate to folder edyoda(The folder name)
+type Python main.py
+then navigate to the menu as per the choices displayed.

@@ -1,5 +1,3 @@
-# Edyoda
-
 The Python Script Consits of 4 files.
 1.Elder.py
 2.Young.py
